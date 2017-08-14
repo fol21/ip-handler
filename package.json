@@ -1,0 +1,19 @@
+{
+  "name": "ip-handler",
+  "version": "0.1.0",
+  "description": "Module tools for writing, reading and handling ip addresses.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fol21/ip-handler.git"
+  },
+  "author": "Fernando Lima <folivelima@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fol21/ip-handler/issues"
+  },
+  "homepage": "https://github.com/fol21/ip-handler#readme"
+}
