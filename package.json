@@ -1,6 +1,6 @@
 {
   "name": "ip-handler",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Module tools for writing, reading and handling ip addresses.",
   "main": "index.js",
   "scripts": {
